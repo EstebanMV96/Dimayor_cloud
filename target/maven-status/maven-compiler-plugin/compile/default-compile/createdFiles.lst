@@ -1,0 +1,5 @@
+dimayor\dao\PersistenceManager.class
+dimayor\controller\DimayorController.class
+dimayor\entity\Team_.class
+dimayor\entity\Team.class
+dimayor\dao\TeamDAO.class
